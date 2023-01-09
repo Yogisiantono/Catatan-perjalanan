@@ -1,0 +1,5 @@
+NIK|NAMA LENGKAP
+
+123|Bayu
+123456|jamet
+180121171100003|Dedi mulyadi
